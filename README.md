@@ -12,4 +12,4 @@ https://github.com/asurpbs/Cloud-Drive-Mounter/releases/download/cloud-drive-mou
 
 ## Usage
 Watch below video to setup your cloud storage with rclone.
-https://www.youtube.com/watch?v=MwxbX6PNiWA&pp=ygUbYWRkIGNsb3VkIHN0b3JhZ2UgdG8gcmNsb25l
+https://www.youtube.com/watch?v=MwxbX6PNiWA&pp
