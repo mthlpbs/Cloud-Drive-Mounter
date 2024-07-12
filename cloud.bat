@@ -27,6 +27,8 @@ if not defined remote[%choice%] (
 set REMOTE=!remote[%choice%]!
 cls
 REM Mount the remote using rclone
+echo NOTE : To unmount press "CTRL + C"
+echo -------------------------------------------------------------
 echo Mounting %REMOTE% to %DRIVE% ( To unmount press ctrl + c)
 rclone mount %REMOTE% %DRIVE% %OPTIONS%
 exit /b 0
